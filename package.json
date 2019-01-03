@@ -13,7 +13,7 @@
     "ms": "^0.7.0",
     "selectn": "^0.9.6",
     "sliced": "0.0.5",
-    "superagent": "^1.1.0",
+    "superagent": "^2.0.0",
     "wrap-fn": "^0.1.4",
     "x-ray-parse": "^1.0.0",
     "yieldly": "0.0.1"
